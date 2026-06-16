@@ -10,6 +10,7 @@ Este repositório guarda os arquivos do Trabalho Interdisciplinar do Grupo 4 (1�
 
 ## Arquivos do Repositório
 * `breast_cancer_dataset.csv`: dataset de dados original (dados brutos).
+* `breast_cancer_filtrado.csv`: dataset de dados filtrados, pós limpeza.
 * `Manual_KNN1.ipynb`: Notebook com o uso do KNN manual.
 * `Biblioteca_pronta.ipynb`: Notebook usando a biblioteca pronta e a comparação dos resultados.
 * `RELATÓRIO FINAL.pdf`: Relatório escrito explicando a escolha da base de dados, o que foi feito no código e a discussão sobre a ética do uso de IA na saúde.
