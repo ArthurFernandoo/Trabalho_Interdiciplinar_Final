@@ -1,4 +1,4 @@
-# Classificação de Tumores de Mama usando K-Nearest Neighbors (KNN)
+# Classificação de Câncer de Mama usando K-Nearest Neighbors (KNN)
 
 Este repositório guarda os arquivos do Trabalho Interdisciplinar do Grupo 4 (1º Semestre) - Dataset 9. O objetivo principal do trabalho é programar e comparar o algoritmo de classificação K-Nearest Neighbors (KNN) de duas formas: feito do zero (manual) e usando uma biblioteca pronta.
 
